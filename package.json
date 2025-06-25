@@ -1,0 +1,9 @@
+{
+  "name": "hospital-donor-scraper",
+  "version": "1.0.0",
+  "description": "Debug actor that confirms Apify actor setup works.",
+  "main": "index.js",
+  "dependencies": {
+    "apify": "^2.1.0"
+  }
+}
